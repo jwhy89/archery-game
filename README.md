@@ -1,6 +1,6 @@
 # Archery Game
 
-__Archery Game__ is a simple addictive 2D game built with __JavaScript__ & __HTML5 Canvas__. This project bacame winner to the __SoloLearn 2D Web Game Contest__ on 24 October 2018!<br/>
+__Archery Game__ is a simple addictive 2D game built with __JavaScript__ & __HTML5 Canvas__. This project became a winner to the __SoloLearn 2D Web Game Contest__ on 24 October 2018!<br/>
 __Created Date:__ 16 May 2018.</br>
 __Idea:__ _Archery Black_.
 

@@ -6,7 +6,7 @@ __Idea:__ _Archery Black_.
 
 ## Preview
 
-Play the game from [GitHub Page](https://adnan-toky.github.io/archery-game).<br/>
+Play the game from [GitHub Page](https://jwhy89.github.io/archery-game/).<br/>
 Also play it from:
 * [SoloLearn](https://code.sololearn.com/WQK06A75id02)
 * [Codepen](https://codepen.io/Toky/full/ZVoaGm)
